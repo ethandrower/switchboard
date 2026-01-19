@@ -1,8 +1,3 @@
-# switchboard
-Langgraph Native Routing Between Local and Cloud LLMs for Cost Optimization
-This is a fantastic "scrappy developer" project. It targets the exact middle ground between "I'm paying too much for Claude" and "My local Llama is too slow/dumb for this task."
-
-Here is an aspirational **README.md** for a project we'll call **"Switchboard"**. It focuses on being the "Traffic Controller" for your local 12GB VRAM setup.
 
 ---
 
